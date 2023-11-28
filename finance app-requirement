@@ -1,0 +1,61 @@
+Home
+	- Total monthly budget
+		1) App bar Hello "UserName", Bell icon (right), plus button (set monthly budget) - static 
+		2) App bar second line, big text of remaining monthly budgets text (add text for carriforwored last month remaining budget)
+		3) Horizontal graph with remaining budget percentage, check if possible to add colors green for full budget, red for low budget
+		4) Plus button will open the menu which will have Add expense, Add Earning
+	- Total Earning Vs Expenses in pie graph view only,
+		1) one part for Earning & one for expense
+Expenses
+	- Day wise total expense so far in this month
+		1) Horizontal list of dates in current month
+		2) Line 2, App bar, big text of remaining budget for the day (left)
+		3) Line 3, App bar, Rs -- of -- is spent today
+		3) Main screen Categories wise list of expenses. seperate color for each category of expenses
+
+	- Total expense based on the daily budget
+	- Saving per day
+	- Categorise the expenses
+	- Add expense
+Earning
+	- Simple Earning list
+
+Investment
+	- "Artistry in Motion" with an image
+Profile
+	- "Artistry in Motion" with an image
+
+Set monthly budget
+	- Budget value (Changing the budget)
+	- Your monthly budget will be divided equally for each day in the current month
+	- Ok, Cancel
+
+Add expense
+	- expense value
+	- date
+	- category (Food, Bills, Utilities, Groceries, Other)
+	- Add, Cancel
+	
+Add Earning
+	- Earning value
+	- month
+	- Your Earning will valid for current month
+	
+Splash screen
+	- Simple logo
+	
+
+
+Data
+Home screen 
+	- Username
+	- Current month budget
+	- Expense this month so far value
+	- Last month unspended budget value
+
+Expenses screen
+	- Day wise list of all spent -> item -- (date, name, expense, budget, category)
+	- List of expenses categorywise
+
+Earning
+	- Simple Earning list -> item -- (name, value)
